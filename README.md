@@ -323,26 +323,12 @@ The script will automatically detect and import new lessons!
 
 ## 🖼️ Screenshots
 
-> 📸 **TODO**: Add screenshots here
-
 ### Recommended Screenshots:
-1. **Main Chat Interface** (`screenshots/chat-interface.png`)
-   - Show the Gradio UI with a sample conversation
+1. **Main Chat Interface**
+     <img width="1908" height="867" alt="image" src="https://github.com/user-attachments/assets/8df7fac1-0350-40e1-83a4-32f8c8f7db9f" />
    
-2. **Search Results Example** (`screenshots/search-results.png`)
-   - Terminal output showing the 3-stage search process
-   
-3. **Weaviate Dashboard** (`screenshots/weaviate-dashboard.png`)
-   - Optional: Show the Weaviate UI with imported data
-
-4. **Agent Graph Visualization** (`screenshots/agent-graph.png`)
-   - The LangGraph structure (automatically generated in code)
-
-**How to add**:
-```markdown
-![Chat Interface](screenshots/chat-interface.png)
-*The main Gradio chat interface with example queries*
-```
+3. **Search Results Example**
+     <img width="921" height="897" alt="image" src="https://github.com/user-attachments/assets/75321ae3-cd95-4cc9-a2ce-f3f330ea07c3" />
 
 ---
 
