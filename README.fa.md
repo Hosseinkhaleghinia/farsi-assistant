@@ -51,12 +51,13 @@
 
 ## 🏗️ معماری
 
-<img width="308" height="372" alt="image" src="https://github.com/user-attachments/assets/4ab8c9b1-e548-499e-ab4d-3b3796ec4af4" />
+  <img width="308" height="372" alt="image" src="https://github.com/user-attachments/assets/4ab8c9b1-e548-499e-ab4d-3b3796ec4af4" />
 
 
 **اجزای کلیدی**:
 - **Router**: تحلیل کوئری برای تعیین نیاز به جستجوی برداری
 - **ابزار جستجوی معنایی**: کوئری به Weaviate با فیلترینگ هوشمند
+  
 - **LLM Agent**:(یا سازگار) با قابلیت فراخوانی ابزار gpt-4o-mini
 - **حافظه**: Checkpointer SQLite برای ماندگاری مکالمه
 
